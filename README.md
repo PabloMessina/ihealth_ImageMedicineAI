@@ -38,10 +38,20 @@ Ricardo S
 * (method) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [code](https://github.com/aioz-ai/MICCAI19-MedVQA) [data](https://www.nature.com/articles/sdata2018251#data-citations)
 
-#### Counterfactual Explanations
+#### XAI
 
-* Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
+* (counterfactual) Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
 Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pii/S1532046419301674
+
+* Weber, L., Lapuschkin, S., Binder, A., & Samek, W. (2022). Beyond Explaining: Opportunities and Challenges of XAI-Based Model Improvement. arXiv preprint arXiv:2203.08008. [[pdf]](https://arxiv.org/pdf/2203.08008.pdf)
+
+
+#### Text Groundig for Visual Tasks
+* Petryk, S., Dunlap, L., Nasseri, K., Gonzalez, J., Darrell, T., & Rohrbach, A. (2022). On Guiding Visual Attention with Language Specification. arXiv preprint arXiv:2202.08926.
+
+* Ross, A. S., Hughes, M. C., & Doshi-Velez, F. (2017, January). Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. In IJCAI.
+
+
 
 
 ## Datasets
