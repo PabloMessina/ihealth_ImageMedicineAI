@@ -1,12 +1,21 @@
 # Medical Vision and NLP at millenium iHEALTH
+
 Denis Parra, CS Professor, PUC Chile
+
 Cecilia Besa, Med Professor, PUC Chile
+
 Jocelyn Dunstan, CS Professor, UChile
+
 Pablo Messina, PhD(c)
+
 Ivania Donoso, PhD
+
 Tamara Quiroga, PhD
+
 Greg S
+
 Jorge P
+
 Ricardo S
 
 
