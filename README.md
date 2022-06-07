@@ -39,12 +39,14 @@ Ricardo S
 
 * (method CPRD) Liu, B., Zhan, L. M., & Wu, X. M. (2021, September). Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 210-220). Springer, Cham. [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MICCAI-2021-Med_VQA.pdf)
 
+* (method MMQ-VQA) Do, T., Nguyen, B. X., Tjiputra, E., Tran, M., Tran, Q. D., & Nguyen, A. (2021, September). Multiple meta-model quantifying for medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 64-74). Springer, Cham. [[code]](https://github.com/aioz-ai/MICCAI21_MMQ)
+
 * Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
 * (method QCR) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354). [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MM-2020-Med-VQA.pdf) [[code]](https://github.com/awenbocc/med-vqa)
 
-* (method) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
-[code](https://github.com/aioz-ai/MICCAI19-MedVQA) [data](https://www.nature.com/articles/sdata2018251#data-citations)
+* (method MEVF) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
+[[pdf]](https://arxiv.org/abs/1909.11867) [[code]](https://github.com/aioz-ai/MICCAI19-MedVQA) [[data]](https://www.nature.com/articles/sdata2018251#data-citations)
 
 #### XAI
 
