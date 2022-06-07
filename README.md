@@ -43,10 +43,14 @@ Ricardo S
 
 * Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
+* Vu, M. H., Löfstedt, T., Nyholm, T., & Sznitman, R. (2020). A question-centric model for visual question answering in medical imaging. IEEE transactions on medical imaging, 39(9), 2856-2868. [[code]](https://github.com/vuhoangminh/vqa_medical) -> relies heavely on MUTAN for visual-text fusion scheme [[code]](https://github.com/Cadene/vqa.pytorch)
+
 * (method QCR) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354). [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MM-2020-Med-VQA.pdf) [[code]](https://github.com/awenbocc/med-vqa)
 
 * (method MEVF) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [[pdf]](https://arxiv.org/abs/1909.11867) [[code]](https://github.com/aioz-ai/MICCAI19-MedVQA) [[data]](https://www.nature.com/articles/sdata2018251#data-citations)
+
+* Many medical VQA works are based on [[Bilinear Attention Networks]](https://arxiv.org/abs/1805.07932) and its implemented pytorch [[code]](https://github.com/jnhwkim/ban-vqa)
 
 #### XAI
 
