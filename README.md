@@ -47,6 +47,8 @@ Ricardo S
 
 * (method QCR) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354). [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MM-2020-Med-VQA.pdf) [[code]](https://github.com/awenbocc/med-vqa)
 
+* (method CGMVQA) Ren, F., & Zhou, Y. (2020). Cgmvqa: A new classification and generative model for medical visual question answering. IEEE Access, 8, 50626-50636. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9032109) [[code]](https://github.com/youngzhou97qz/CGMVQA)
+
 * (method MEVF) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [[pdf]](https://arxiv.org/abs/1909.11867) [[code]](https://github.com/aioz-ai/MICCAI19-MedVQA) [[data]](https://www.nature.com/articles/sdata2018251#data-citations)
 
