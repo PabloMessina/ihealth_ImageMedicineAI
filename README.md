@@ -99,6 +99,9 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Open IU
 
+* Chest ImaGenome: A joint rule-based natural language processing (NLP) and CXR atlas-based bounding box detection pipeline are used to automatically label 242072 frontal MIMIC CXRs locally. Contributions:  1) 1,256 combinations of relation annotations between 29 CXR anatomical locations (objects with bounding box coordinates) and their attributes, structured as a scene graph per image, 2) over 670,000 localized comparison relations (for improved, worsened, or no change) between the anatomical locations across sequential exams, as well as 3) a manually annotated gold standard scene graph dataset from 500 unique patients. [[data]](https://www.physionet.org/content/chest-imagenome/1.0.0/)
+
+
 * RadReport Template Library https://radreport.org/home/232/2012-07-12%2000:00:00
 
 
