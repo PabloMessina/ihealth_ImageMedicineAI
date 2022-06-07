@@ -25,8 +25,10 @@ Ricardo S
 ### Report Generation
 * (method) Liu, C. F., Zhao, Y., Miller, M. I., Hillis, A. E., & Faria, A. (2022). Automatic comprehensive radiological reports for clinical acute stroke MRIs. Available at SSRN 4123512. [[pdf]](https://assets.researchsquare.com/files/rs-1705683/v1_covered.pdf?c=1654013465) [[exe]](https://www.nitrc.org/doi/landing_page.php?table=frs_file&id=12723)
 
-* Brady, A. (2022). Language and Radiological Reporting. In Structured Reporting in Radiology (pp. 1-19). Springer, Cham.
+* (medical paper) Brady, A. (2022). Language and Radiological Reporting. In Structured Reporting in Radiology (pp. 1-19). Springer, Cham.
 
+* (method RATCHET) Hou, B., Kaissis, G., Summers, R. M., & Kainz, B. (2021, September). RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 293-303). Springer, Cham. [[pdf]]
+(https://arxiv.org/abs/2107.02104) [[code]](https://github.com/farrell236/RATCHET)
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
 
 * (survey)  
@@ -84,6 +86,10 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * (method PCRL) Zhou, H. Y., Lu, C., Yang, S., Han, X., & Yu, Y. (2021). Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3499-3509). [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Preservational_Learning_Improves_Self-Supervised_Medical_Image_Models_by_Reconstructing_Diverse_ICCV_2021_paper.pdf) [[code]](https://github.com/Luchixiang/PCRL)
 
+#### Graph Neural Networks & Knowledge-Aware Methods
+
+* Agu, N. N., Wu, J. T., Chao, H., Lourentzou, I., Sharma, A., Moradi, M., ... & Hendler, J. (2021, September). Anaxnet: Anatomy aware multi-label finding classification in chest x-ray. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 804-813). Springer, Cham.
+
 #### NLP Español
 
 * Cotik, V., Stricker, V., Vivaldi, J., & Rodríguez Hontoria, H. (2016). Syntactic methods for negation detection in radiology reports in Spanish. In Proceedings of the 15th Workshop on Biomedical Natural Language Processing, BioNLP 2016: Berlin, Germany, August 12, 2016 (pp. 156-165). Association for Computational Linguistics.
@@ -99,7 +105,7 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Open IU
 
-* Chest ImaGenome: A joint rule-based natural language processing (NLP) and CXR atlas-based bounding box detection pipeline are used to automatically label 242072 frontal MIMIC CXRs locally. Contributions:  1) 1,256 combinations of relation annotations between 29 CXR anatomical locations (objects with bounding box coordinates) and their attributes, structured as a scene graph per image, 2) over 670,000 localized comparison relations (for improved, worsened, or no change) between the anatomical locations across sequential exams, as well as 3) a manually annotated gold standard scene graph dataset from 500 unique patients. [[data]](https://www.physionet.org/content/chest-imagenome/1.0.0/)
+* Chest ImaGenome: A joint rule-based natural language processing (NLP) and CXR atlas-based bounding box detection pipeline are used to automatically label 242072 frontal MIMIC CXRs locally. Contributions:  1) 1,256 combinations of relation annotations between 29 CXR anatomical locations (objects with bounding box coordinates) and their attributes, structured as a scene graph per image, 2) over 670,000 localized comparison relations (for improved, worsened, or no change) between the anatomical locations across sequential exams, as well as 3) a manually annotated gold standard scene graph dataset from 500 unique patients. [[data]](https://www.physionet.org/content/chest-imagenome/1.0.0/) [[pdf]](https://arxiv.org/pdf/2105.09937.pdf)
 
 * CXR Eye Gaze: Creation and Validation of a Chest X-Ray Dataset with Eye-tracking and Report Dictation for AI Tool Development [code] https://github.com/cxr-eye-gaze/eye-gaze-dataset
 
