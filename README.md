@@ -25,9 +25,12 @@ Ricardo S
 ### Report Generation
 * (method) Liu, C. F., Zhao, Y., Miller, M. I., Hillis, A. E., & Faria, A. (2022). Automatic comprehensive radiological reports for clinical acute stroke MRIs. Available at SSRN 4123512. [[pdf]](https://assets.researchsquare.com/files/rs-1705683/v1_covered.pdf?c=1654013465) [[exe]](https://www.nitrc.org/doi/landing_page.php?table=frs_file&id=12723)
 
+* Brady, A. (2022). Language and Radiological Reporting. In Structured Reporting in Radiology (pp. 1-19). Springer, Cham.
+
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
 
 * (survey)  
+* 
 
 
 #### Medical VQA
@@ -73,6 +76,8 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 * MIMIC-CXR
 
 * Open IU
+
+* RadReport Template Library https://radreport.org/home/232/2012-07-12%2000:00:00
 
 
 ## Code
