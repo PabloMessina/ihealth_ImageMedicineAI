@@ -37,6 +37,8 @@ Ricardo S
 
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
 
+* (method CPRD) Liu, B., Zhan, L. M., & Wu, X. M. (2021, September). Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 210-220). Springer, Cham. [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MICCAI-2021-Med_VQA.pdf)
+
 * Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
 * (method QCR) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354). [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MM-2020-Med-VQA.pdf) [[code]](https://github.com/awenbocc/med-vqa)
@@ -64,7 +66,10 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
 
-* Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
+* (method) Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
+
+* (method CPRD) Liu, B., Zhan, L. M., & Wu, X. M. (2021, September). Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 210-220). Springer, Cham. [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MICCAI-2021-Med_VQA.pdf)
+
 
 #### NLP Español
 
