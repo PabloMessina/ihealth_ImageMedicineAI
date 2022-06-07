@@ -45,13 +45,17 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Weber, L., Lapuschkin, S., Binder, A., & Samek, W. (2022). Beyond Explaining: Opportunities and Challenges of XAI-Based Model Improvement. arXiv preprint arXiv:2203.08008. [[pdf]](https://arxiv.org/pdf/2203.08008.pdf)
 
+* Lee, K. H., Park, C., Oh, J., & Kwak, N. (2021). LFI-CAM: Learning Feature Importance for Better Visual Explanation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1355-1363). [[code]](https://github.com/TrustworthyAI-kr/LFI-CAM)
+
 
 #### Text Groundig for Visual Tasks
 * Petryk, S., Dunlap, L., Nasseri, K., Gonzalez, J., Darrell, T., & Rohrbach, A. (2022). On Guiding Visual Attention with Language Specification. arXiv preprint arXiv:2202.08926.
 
 * Ross, A. S., Hughes, M. C., & Doshi-Velez, F. (2017, January). Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. In IJCAI.
 
+#### Contrastive Learning
 
+* Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
 
 
 ## Datasets
