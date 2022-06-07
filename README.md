@@ -38,6 +38,11 @@ Ricardo S
 * (method) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [code](https://github.com/aioz-ai/MICCAI19-MedVQA) [data](https://www.nature.com/articles/sdata2018251#data-citations)
 
+#### Counterfactual Explanations
+
+* Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
+Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pii/S1532046419301674
+
 
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
