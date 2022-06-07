@@ -62,13 +62,15 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Ross, A. S., Hughes, M. C., & Doshi-Velez, F. (2017, January). Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. In IJCAI.
 
-#### Contrastive Learning
+#### Multimodal & Contrastive Learning
 
 * Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
 
 * (method) Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
 * (method CPRD) Liu, B., Zhan, L. M., & Wu, X. M. (2021, September). Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 210-220). Springer, Cham. [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MICCAI-2021-Med_VQA.pdf)
+
+* (method CMSA) Gong, H., Chen, G., Liu, S., Yu, Y., & Li, G. (2021, August). Cross-Modal Self-Attention with Multi-Task Pre-Training for Medical Visual Question Answering. In Proceedings of the 2021 International Conference on Multimedia Retrieval (pp. 456-460). [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460426.3463584) [[code]](https://github.com/haifangong/CMSA-MTPT-4-MedicalVQA)
 
 
 #### NLP Español
