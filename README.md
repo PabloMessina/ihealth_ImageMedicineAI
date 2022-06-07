@@ -59,6 +59,11 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
 
+#### NLP Español
+
+* Cotik, V., Stricker, V., Vivaldi, J., & Rodríguez Hontoria, H. (2016). Syntactic methods for negation detection in radiology reports in Spanish. In Proceedings of the 15th Workshop on Biomedical Natural Language Processing, BioNLP 2016: Berlin, Germany, August 12, 2016 (pp. 156-165). Association for Computational Linguistics.
+
+* Stricker, V., Iacobacci, I., & Cotik, V. (2015). Negated findings detection in radiology reports in spanish: an adaptation of negex to spanish. In Ijcai-workshop on replicability and reproducibility in natural language processing: adaptative methods, resources and software, buenos aires, argentina.
 
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
