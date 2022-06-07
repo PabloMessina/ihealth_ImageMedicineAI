@@ -18,6 +18,7 @@ Jorge P
 
 Ricardo S
 
+**Note**: __Keep it sorted by year__
 
 ## Papers
 
@@ -40,13 +41,14 @@ Ricardo S
 
 #### XAI
 
-* (counterfactual) Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
-Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pii/S1532046419301674
-
 * Weber, L., Lapuschkin, S., Binder, A., & Samek, W. (2022). Beyond Explaining: Opportunities and Challenges of XAI-Based Model Improvement. arXiv preprint arXiv:2203.08008. [[pdf]](https://arxiv.org/pdf/2203.08008.pdf)
 
 * Lee, K. H., Park, C., Oh, J., & Kwak, N. (2021). LFI-CAM: Learning Feature Importance for Better Visual Explanation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1355-1363). [[code]](https://github.com/TrustworthyAI-kr/LFI-CAM)
 
+* (NLP) Jain, S., & Wallace, B. C. (2019, June). Attention is not Explanation. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 3543-3556).
+
+* (counterfactual) Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
+Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pii/S1532046419301674
 
 #### Text Groundig for Visual Tasks
 * Petryk, S., Dunlap, L., Nasseri, K., Gonzalez, J., Darrell, T., & Rohrbach, A. (2022). On Guiding Visual Attention with Language Specification. arXiv preprint arXiv:2202.08926.
