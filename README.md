@@ -52,6 +52,8 @@ Ricardo S
 * (method MEVF) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [[pdf]](https://arxiv.org/abs/1909.11867) [[code]](https://github.com/aioz-ai/MICCAI19-MedVQA) [[data]](https://www.nature.com/articles/sdata2018251#data-citations)
 
+* (method) Xue, Y., Xu, T., Rodney Long, L., Xue, Z., Antani, S., Thoma, G. R., & Huang, X. (2018, September). Multimodal recurrent model with attention for automated radiology report generation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 457-466). Springer, Cham. [[pdf]](https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf)
+
 * Many medical VQA works are based on [[Bilinear Attention Networks]](https://arxiv.org/abs/1805.07932) and its implemented pytorch [[code]](https://github.com/jnhwkim/ban-vqa)
 
 #### XAI
