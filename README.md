@@ -35,7 +35,10 @@ Ricardo S
 
 #### Medical VQA
 
+
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
+
+* Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
 * (method) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354).
 
@@ -61,6 +64,8 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 #### Contrastive Learning
 
 * Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
+
+* Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
 #### NLP Español
 
