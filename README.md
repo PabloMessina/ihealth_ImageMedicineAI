@@ -80,6 +80,7 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * (method CMSA) Gong, H., Chen, G., Liu, S., Yu, Y., & Li, G. (2021, August). Cross-Modal Self-Attention with Multi-Task Pre-Training for Medical Visual Question Answering. In Proceedings of the 2021 International Conference on Multimedia Retrieval (pp. 456-460). [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460426.3463584) [[code]](https://github.com/haifangong/CMSA-MTPT-4-MedicalVQA)
 
+* (method PCRL) Zhou, H. Y., Lu, C., Yang, S., Han, X., & Yu, Y. (2021). Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3499-3509). [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Preservational_Learning_Improves_Self-Supervised_Medical_Image_Models_by_Reconstructing_Diverse_ICCV_2021_paper.pdf) [[code]](https://github.com/Luchixiang/PCRL)
 
 #### NLP Español
 
