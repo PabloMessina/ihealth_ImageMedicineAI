@@ -35,12 +35,11 @@ Ricardo S
 
 #### Medical VQA
 
-
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
 
 * Eslami, S., de Melo, G., & Meinel, C. (2021). Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?. arXiv preprint arXiv:2112.13906. [[pdf]](https://paperswithcode.com/paper/2112-13906)
 
-* (method) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354).
+* (method QCR) Zhan, L. M., Liu, B., Fan, L., Chen, J., & Wu, X. M. (2020, October). Medical visual question answering via conditional reasoning. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 2345-2354). [[pdf]](http://www4.comp.polyu.edu.hk/~csxmwu/papers/MM-2020-Med-VQA.pdf) [[code]](https://github.com/awenbocc/med-vqa)
 
 * (method) Nguyen, B. D., Do, T. T., Nguyen, B. X., Do, T., Tjiputra, E., & Tran, Q. D. (2019, October). Overcoming data limitation in medical visual question answering. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 522-530). Springer, Cham.
 [code](https://github.com/aioz-ai/MICCAI19-MedVQA) [data](https://www.nature.com/articles/sdata2018251#data-citations)
