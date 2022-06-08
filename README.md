@@ -12,7 +12,7 @@ Ivania Donoso, PhD
 
 Tamara Quiroga, PhD
 
-Greg S
+Gregory Schuit, MSc Student, PUC Chile
 
 Jorge P
 
