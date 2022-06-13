@@ -16,7 +16,7 @@ Gregory Schuit, MSc Student, PUC Chile
 
 Jorge P
 
-Ricardo S
+Ricardo Schilling, MSc Student, PUC Chile
 
 **Note**: __Keep it sorted by year__
 
@@ -37,6 +37,8 @@ Ricardo S
 * (method) Yuan, J., Liao, H., Luo, R., & Luo, J. (2019, October). Automatic radiology report generation based on multi-view image fusion and medical concept enrichment. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 721-729). Springer, Cham. [[pdf]](https://arxiv.org/pdf/1907.09085.pdf) 
 
 * (method) Xue, Y., Xu, T., Rodney Long, L., Xue, Z., Antani, S., Thoma, G. R., & Huang, X. (2018, September). Multimodal recurrent model with attention for automated radiology report generation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 457-466). Springer, Cham. [[pdf]](https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf)
+
+* (method) Miura, Yasuhide and Zhang, Yuhao and Tsai, Emily Bao and Langlotz, Curtis P. and Jurafsky, Dan. (2020). Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation. arXiv preprint arXiv:2010.10042. [[pdf]](https://arxiv.org/pdf/2010.10042.pdf) [[code]](https://github.com/ysmiura/ifcc)
 
 #### Medical VQA
 
