@@ -18,6 +18,8 @@ Jorge P
 
 Ricardo Schilling, MSc Student, PUC Chile
 
+Cauã Paz, Student, PUC Chile
+
 **Note**: __Keep it sorted by year__
 
 ## Papers
