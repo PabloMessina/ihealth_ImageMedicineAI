@@ -104,11 +104,13 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
 
-* [SLAKE](https://www.med-vqa.com/slake/): A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering
+* [SLAKE](https://www.med-vqa.com/slake/): A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering.
 
 * MIMIC-CXR
 
 * Open IU
+
+* Radiology objects in context [roco](https://github.com/razorx89/roco-dataset): a multimodal image dataset, provides over 80K samples of ultrasound, X-Ray, fluoroscopy, PET scans, mammography, MRI, angiography, from various human body regions, e.g., head, neck, jaw and teeth, spine, chest, abdomen, hand, foot, knee, and pelvis. The image–text pairs in this dataset are captured from PubMed articles. The texts here are taken from the relatively short captions (average length of 20 words) associated with images in the articles, which provide rich explanatory information about the content of images.
 
 * Chest ImaGenome: A joint rule-based natural language processing (NLP) and CXR atlas-based bounding box detection pipeline are used to automatically label 242072 frontal MIMIC CXRs locally. Contributions:  1) 1,256 combinations of relation annotations between 29 CXR anatomical locations (objects with bounding box coordinates) and their attributes, structured as a scene graph per image, 2) over 670,000 localized comparison relations (for improved, worsened, or no change) between the anatomical locations across sequential exams, as well as 3) a manually annotated gold standard scene graph dataset from 500 unique patients. [[data]](https://www.physionet.org/content/chest-imagenome/1.0.0/) [[pdf]](https://arxiv.org/pdf/2105.09937.pdf)
 
