@@ -114,6 +114,8 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * Chest ImaGenome: A joint rule-based natural language processing (NLP) and CXR atlas-based bounding box detection pipeline are used to automatically label 242072 frontal MIMIC CXRs locally. Contributions:  1) 1,256 combinations of relation annotations between 29 CXR anatomical locations (objects with bounding box coordinates) and their attributes, structured as a scene graph per image, 2) over 670,000 localized comparison relations (for improved, worsened, or no change) between the anatomical locations across sequential exams, as well as 3) a manually annotated gold standard scene graph dataset from 500 unique patients. [[data]](https://www.physionet.org/content/chest-imagenome/1.0.0/) [[pdf]](https://arxiv.org/pdf/2105.09937.pdf)
 
+* VinDr-CXR: An open dataset of chest X-rays with radiologist's annotations. [[Kaggle (data)]](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/overview) [[pdf]](https://arxiv.org/pdf/2012.15029.pdf)
+
 * CXR Eye Gaze: Creation and Validation of a Chest X-Ray Dataset with Eye-tracking and Report Dictation for AI Tool Development [code] https://github.com/cxr-eye-gaze/eye-gaze-dataset
 
 * RadReport Template Library https://radreport.org/home/232/2012-07-12%2000:00:00
