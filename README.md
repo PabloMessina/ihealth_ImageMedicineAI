@@ -14,7 +14,7 @@ Tamara Quiroga, PhD
 
 Gregory Schuit, MSc Student, PUC Chile
 
-Jorge P
+Jorge Pérez Facuse, MSc Student, PUC Chile
 
 Ricardo Schilling, MSc Student, PUC Chile
 
