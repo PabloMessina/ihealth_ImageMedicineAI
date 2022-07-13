@@ -42,7 +42,7 @@ Cauã Paz, Student, PUC Chile
 
 * (method) Miura, Yasuhide and Zhang, Yuhao and Tsai, Emily Bao and Langlotz, Curtis P. and Jurafsky, Dan. (2020). Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation. arXiv preprint arXiv:2010.10042. [[pdf]](https://arxiv.org/pdf/2010.10042.pdf) [[code]](https://github.com/ysmiura/ifcc)
 
-#### Medical VQA
+### Medical VQA
 
 * (method MedViLL) Moon, J. H., Lee, H., Shin, W., & Choi, E. (2021). Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. arXiv preprint arXiv:2105.11333. [[pdf]](https://arxiv.org/pdf/2105.11333.pdf) [[code & data]](https://github.com/SuperSupermoon/MedViLL)
 
@@ -63,23 +63,46 @@ Cauã Paz, Student, PUC Chile
 
 * Many medical VQA works are based on [[Bilinear Attention Networks]](https://arxiv.org/abs/1805.07932) and its implemented pytorch [[code]](https://github.com/jnhwkim/ban-vqa)
 
-#### XAI
+### XAI
+
+* Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+
+* Tonekaboni, S., Joshi, S., McCradden, M. D., & Goldenberg, A. (2019, October). What clinicians want: contextualizing explainable machine learning for clinical end use. In Machine learning for healthcare conference (pp. 359-380). PMLR. [[pdf]](http://proceedings.mlr.press/v106/tonekaboni19a/tonekaboni19a.pdf)
 
 * Weber, L., Lapuschkin, S., Binder, A., & Samek, W. (2022). Beyond Explaining: Opportunities and Challenges of XAI-Based Model Improvement. arXiv preprint arXiv:2203.08008. [[pdf]](https://arxiv.org/pdf/2203.08008.pdf)
 
+* (NLP) Jain, S., & Wallace, B. C. (2019, June). Attention is not Explanation. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 3543-3556). [[pdf]](https://arxiv.org/pdf/1902.10186)
+
+* (NLP) Wiegreffe, S., & Pinter, Y. (2019). Attention is not not explanation. arXiv preprint arXiv:1908.04626. [[pdf]](https://arxiv.org/pdf/1908.04626.pdf)
+
 * Lee, K. H., Park, C., Oh, J., & Kwak, N. (2021). LFI-CAM: Learning Feature Importance for Better Visual Explanation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1355-1363). [[code]](https://github.com/TrustworthyAI-kr/LFI-CAM)
 
-* (NLP) Jain, S., & Wallace, B. C. (2019, June). Attention is not Explanation. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 3543-3556).
+* Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-cam: Visual explanations from deep networks via gradient-based localization. In Proceedings of the IEEE international conference on computer vision (pp. 618-626). [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 
-* (counterfactual) Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
-Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pii/S1532046419301674
+* Counterfactual Generation:
 
-#### Text Groundig for Visual Tasks
+  - Verma, S., Dickerson, J., & Hines, K. (2020). Counterfactual explanations for machine learning: A review. arXiv preprint arXiv:2010.10596. [[pdf]](https://arxiv.org/pdf/2010.10596.pdf)
+ 
+  - Graham Spinks, Marie-Francine Moens. Justifying diagnosis decisions by deep neural networks. Journal of Biomedical Informatics
+Volume 96, August 2019, 103248. [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046419301674)
+  
+  - Sanchez, P., & Tsaftaris, S. A. (2022). Diffusion Causal Models for Counterfactual Estimation. arXiv preprint arXiv:2202.10166. [[pdf]](https://arxiv.org/pdf/2202.10166.pdf)
+  
+  - Van Looveren, A., Klaise, J., Vacanti, G., & Cobb, O. (2021). Conditional generative models for counterfactual explanations. arXiv preprint arXiv:2101.10123. [[pdf]](https://arxiv.org/pdf/2101.10123.pdf)
+  
+  - Thiagarajan, J., Narayanaswamy, V. S., Rajan, D., Liang, J., Chaudhari, A., & Spanias, A. (2021). Designing counterfactual generators using deep model inversion. Advances in Neural Information Processing Systems, 34, 16873-16884. [[pdf]](https://proceedings.neurips.cc/paper/2021/file/8ca01ea920679a0fe3728441494041b9-Paper.pdf)
+  
+  - Nemirovsky, D., Thiebaut, N., Xu, Y., & Gupta, A. (2020). Countergan: generating realistic counterfactuals with residual generative adversarial nets. arXiv preprint arXiv:2009.05199. [[pdf]](https://arxiv.org/pdf/2009.05199.pdf)
+  
+  - Chang, C. H., Adam, G. A., & Goldenberg, A. (2021). Towards robust classification model by counterfactual and invariant data generation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 15212-15221). [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf)
+
+### Text Groundig for Visual Tasks
+
 * Petryk, S., Dunlap, L., Nasseri, K., Gonzalez, J., Darrell, T., & Rohrbach, A. (2022). On Guiding Visual Attention with Language Specification. arXiv preprint arXiv:2202.08926.
 
 * Ross, A. S., Hughes, M. C., & Doshi-Velez, F. (2017, January). Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. In IJCAI.
 
-#### Multimodal & Contrastive Learning
+### Multimodal & Contrastive Learning
 
 * Taleb, A., Kirchler, M., Monti, R., & Lippert, C. (2021). ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics. arXiv preprint arXiv:2111.13424.
 
@@ -91,11 +114,11 @@ Volume 96, August 2019, 103248: https://www.sciencedirect.com/science/article/pi
 
 * (method PCRL) Zhou, H. Y., Lu, C., Yang, S., Han, X., & Yu, Y. (2021). Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3499-3509). [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Preservational_Learning_Improves_Self-Supervised_Medical_Image_Models_by_Reconstructing_Diverse_ICCV_2021_paper.pdf) [[code]](https://github.com/Luchixiang/PCRL)
 
-#### Graph Neural Networks & Knowledge-Aware Methods
+### Graph Neural Networks & Knowledge-Aware Methods
 
 * Agu, N. N., Wu, J. T., Chao, H., Lourentzou, I., Sharma, A., Moradi, M., ... & Hendler, J. (2021, September). Anaxnet: Anatomy aware multi-label finding classification in chest x-ray. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 804-813). Springer, Cham.
 
-#### NLP Español
+### NLP Español
 
 * Cotik, V., Stricker, V., Vivaldi, J., & Rodríguez Hontoria, H. (2016). Syntactic methods for negation detection in radiology reports in Spanish. In Proceedings of the 15th Workshop on Biomedical Natural Language Processing, BioNLP 2016: Berlin, Germany, August 12, 2016 (pp. 156-165). Association for Computational Linguistics.
 
