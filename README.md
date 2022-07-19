@@ -20,6 +20,8 @@ Ricardo Schilling, MSc Student, PUC Chile
 
 Cauã Paz, Student, PUC Chile
 
+[José Cañete](https://josecannete.github.io), Engineer, CENIA 
+
 **Note**: __Keep it sorted by year__
 
 ## Papers
