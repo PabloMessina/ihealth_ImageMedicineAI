@@ -146,6 +146,8 @@ is divided into a training set of 15,000 and a test set of 3,000. Each scan in t
 
 * RadReport Template Library https://radreport.org/home/232/2012-07-12%2000:00:00
 
+* PICAI Dataset: https://pi-cai.grand-challenge.org/DATA/
+
 
 ## Code
 **MEVF** (2019)  [code](https://github.com/aioz-ai/MICCAI19-MedVQA)
