@@ -1,6 +1,6 @@
 # Medical Vision and NLP at millenium iHEALTH
 
-Denis Parra, CS Professor, PUC Chile
+[Denis Parra](https://dparras.sitios.ing.puc.cl), CS Professor, PUC Chile
 
 Cecilia Besa, Med Professor, PUC Chile
 
