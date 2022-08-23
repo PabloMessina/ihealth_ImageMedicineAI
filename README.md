@@ -116,7 +116,7 @@ Volume 96, August 2019, 103248. [[pdf]](https://www.sciencedirect.com/science/ar
 
 * (method PCRL) Zhou, H. Y., Lu, C., Yang, S., Han, X., & Yu, Y. (2021). Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3499-3509). [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Preservational_Learning_Improves_Self-Supervised_Medical_Image_Models_by_Reconstructing_Diverse_ICCV_2021_paper.pdf) [[code]](https://github.com/Luchixiang/PCRL)
 
-*(comparison of Dual Encoders and Joint Encoders) Hendricks, L. A., Mellor, J., Schneider, R., Alayrac, J. B., & Nematzadeh, A. (2021). Decoupling the role of data, attention, and losses in multimodal transformers. Transactions of the Association for Computational Linguistics, 9, 570-585.
+* (comparison of Dual Encoders and Joint Encoders) Hendricks, L. A., Mellor, J., Schneider, R., Alayrac, J. B., & Nematzadeh, A. (2021). Decoupling the role of data, attention, and losses in multimodal transformers. Transactions of the Association for Computational Linguistics, 9, 570-585. [[pdf]](https://arxiv.org/pdf/2102.00529.pdf)
 
 ### Graph Neural Networks & Knowledge-Aware Methods
 
