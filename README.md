@@ -128,7 +128,7 @@ Volume 96, August 2019, 103248. [[pdf]](https://www.sciencedirect.com/science/ar
 
 * Stricker, V., Iacobacci, I., & Cotik, V. (2015). Negated findings detection in radiology reports in spanish: an adaptation of negex to spanish. In Ijcai-workshop on replicability and reproducibility in natural language processing: adaptative methods, resources and software, buenos aires, argentina.
 
-### Label Evaluation
+### Labeler Evaluation
 
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
