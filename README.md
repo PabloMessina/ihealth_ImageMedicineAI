@@ -130,6 +130,18 @@ Volume 96, August 2019, 103248. [[pdf]](https://www.sciencedirect.com/science/ar
 
 ### Labeler Evaluation
 
+* Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund, Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, Jayne Seekins, David A. Mong, Safwan S. Halabi, Jesse K. Sandberg, Ricky Jones, David B. Larson, Curtis P. Langlotz, Bhavik N. Patel, Matthew P. Lungren, and Andrew Y. Ng. (2019). CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison. [[pdf]](https://arxiv.org/abs/1901.07031) [[code]](https://github.com/stanfordmlgroup/chexpert-labeler)
+
+* Guanxiong Liu, Tzu-Ming Harry Hsu, Matthew McDermott, Willie Boag, Wei-Hung Weng, Peter Szolovits, and Marzyeh Ghassemi. (2019). Clinically Accurate Chest X-Ray Report Generation. [[pdf]](https://arxiv.org/abs/1904.02633)
+
+* Matthew B. A. McDermott, Tzu Ming Harry Hsu, Wei-Hung Weng, Marzyeh Ghassemi, and Peter Szolovits. (2020). Chexpert++: Approximating the chexpert labeler for speed,differentiability, and probabilistic output. [[pdf]](https://arxiv.org/abs/2006.15229) [[code]](https://github.com/mmcdermott/chexpertplusplus)
+
+* Akshay Smit, Saahil Jain, Pranav Rajpurkar, Anuj Pareek, Andrew Y Ng, and Matthew P Lungren. (2020). Chexbert: Combining automatic labelers and expert annotations for accurate radiology report labeling using bert. [[pdf]](https://arxiv.org/abs/2004.09167) [[code]](https://github.com/stanfordmlgroup/CheXbert)
+
+* Saahil Jain, Akshay Smit, Steven QH Truong, Chanh DT Nguyen, Minh-Thanh Huynh, Mudit Jain, Victoria A. Young, Andrew Y. Ng, Matthew P. Lungren, and Pranav Rajpurkar. (2021). VisualCheXbert: Addressing the Discrepancy Between Radiology Report Labels and Image Labels. [[pdf]](https://arxiv.org/abs/2102.11467) [[code]](https://github.com/stanfordmlgroup/VisualCheXbert)
+
+* Saahil Jain, Akshay Smit, Andrew Y. Ng, and Pranav Rajpurkar. (2021). Effect of Radiology Report Labeler Quality on Deep Learning Models for Chest X-Ray Interpretation. [[pdf]](https://arxiv.org/abs/2104.00793)
+
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
 
