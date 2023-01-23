@@ -142,6 +142,9 @@ Volume 96, August 2019, 103248. [[pdf]](https://www.sciencedirect.com/science/ar
 
 * Saahil Jain, Akshay Smit, Andrew Y. Ng, and Pranav Rajpurkar. (2021). Effect of Radiology Report Labeler Quality on Deep Learning Models for Chest X-Ray Interpretation. [[pdf]](https://arxiv.org/abs/2104.00793)
 
+* Yifan Peng, Xiaosong Wang, Le Lu, Mohammadhadi Bagheri, Ronald Summers, Zhiyong Lu. (2017). NegBio: a high-performance tool for negation and uncertainty detection in
+radiology reports. [[pdf]](https://arxiv.org/pdf/1712.05898.pdf) [[code]](https://github.com/ncbi-nlp/NegBio)
+
 ## Datasets
 * [VQA-RAD dataset](https://www.nature.com/articles/sdata2018251): A manually constructed VQA dataset in radiology. 315 images and 3515 visual questions. 104 head axial single-slice CTs or MRIs, 107 chest x-rays, and 104 abdominal axial CTs. The VQA-RAD test set contains 151 matched pairs of free-form and paraphrased questions. [Download link](https://osf.io/89kps/)
 
