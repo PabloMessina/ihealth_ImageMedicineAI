@@ -27,6 +27,14 @@ Cauã Paz, Student, PUC Chile
 ## Papers
 
 ### Report Generation
+
+* (method) Tanida et al, (2023) Interactive and Explainable Region-guided Radiology Report Generation. CVPR 2023. [[code and links] (https://github.com/ttanida/rgrg)
+
+* (method BioViL-T) Shruthi Bannur et al (2023) Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing
+. CVPR 2023. [[project page]](https://www.microsoft.com/en-us/research/publication/learning-to-exploit-temporal-structure-for-biomedical-vision-language-processing/)
+
+* (method cvt2distilgpt2) Aaron Nicolson, Jason Dowling, and Bevan Koopman (2022) Improving Chest X-Ray Report Generation by Leveraging Warm-Starting, Under review. [[code and links]](https://github.com/aehrc/cvt2distilgpt2) 
+
 * (method) Liu, C. F., Zhao, Y., Miller, M. I., Hillis, A. E., & Faria, A. (2022). Automatic comprehensive radiological reports for clinical acute stroke MRIs. Available at SSRN 4123512. [[pdf]](https://assets.researchsquare.com/files/rs-1705683/v1_covered.pdf?c=1654013465) [[exe]](https://www.nitrc.org/doi/landing_page.php?table=frs_file&id=12723)
 
 * (medical paper) Brady, A. (2022). Language and Radiological Reporting. In Structured Reporting in Radiology (pp. 1-19). Springer, Cham.
