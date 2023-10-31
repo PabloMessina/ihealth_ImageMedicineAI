@@ -1,4 +1,4 @@
-# Medical Vision and NLP at millenium iHEALTH
+# Medical Vision and NLP at millenium [iHEALTH](https://i-health.cl/) & [CENIA](https://www.cenia.cl/)
 
 [Denis Parra](https://dparra.sitios.ing.puc.cl), CS Professor, PUC Chile
 
@@ -10,13 +10,9 @@ Pablo Messina, PhD(c)
 
 Ivania Donoso, PhD
 
-Tamara Quiroga, PhD
-
 Gregory Schuit, MSc Student, PUC Chile
 
 Jorge Pérez Facuse, MSc Student, PUC Chile
-
-Ricardo Schilling, MSc Student, PUC Chile
 
 Cauã Paz, Student, PUC Chile
 
