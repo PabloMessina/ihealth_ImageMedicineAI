@@ -4,7 +4,7 @@
 
 Cecilia Besa, Med Professor, PUC Chile <br/>
 Jocelyn Dunstan, CS Professor, PUC Chile <br/>
-Jocelyn Dunstan, Math Professor, PUC Chile <br/>
+Mircea Petrache, Math Professor, PUC Chile <br/>
 Pablo Messina, PhD(c) <br/>
 Ivania Donoso, PhD <br/>
 Gregory Schuit, MSc Student, PUC Chile <br/>
