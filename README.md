@@ -2,19 +2,19 @@
 
 [Denis Parra](https://dparra.sitios.ing.puc.cl), CS Professor, PUC Chile
 
-Cecilia Besa, Med Professor, PUC Chile
+Cecilia Besa, Med Professor, PUC Chile <br/>
+Jocelyn Dunstan, CS Professor, PUC Chile <br/>
+Jocelyn Dunstan, Math Professor, PUC Chile <br/>
+Pablo Messina, PhD(c) <br/>
+Ivania Donoso, PhD <br/>
+Gregory Schuit, MSc Student, PUC Chile <br/>
+Jorge Pérez Facuse, MSc Student, PUC Chile <br/>
+Rafael Elberg, MSc Student, PUC Chile  <br/>
+Cauã Paz, Undergrad Student, PUC Chile <br/>
+Itan Felzsentein, Undergrad Student, PUC Chile <br/>
+Valeria Salas, Undergrad Student, PUC Chile <br/>
 
-Jocelyn Dunstan, CS Professor, UChile
-
-Pablo Messina, PhD(c)
-
-Ivania Donoso, PhD
-
-Gregory Schuit, MSc Student, PUC Chile
-
-Jorge Pérez Facuse, MSc Student, PUC Chile
-
-Cauã Paz, Student, PUC Chile
+**Former members**
 
 [José Cañete](https://josecannete.github.io), Engineer, CENIA 
 
