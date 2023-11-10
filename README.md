@@ -156,7 +156,7 @@ radiology reports. [[pdf]](https://arxiv.org/pdf/1712.05898.pdf) [[code]](https:
 
 * [SLAKE](https://www.med-vqa.com/slake/): A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering.
 
-* MIMIC-CXR
+* [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 * Open IU
 
