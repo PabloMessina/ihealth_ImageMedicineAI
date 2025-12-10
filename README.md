@@ -43,6 +43,8 @@ Rafael Elberg, MSc Student, PUC Chile  <br/>
 
 * QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [paper](https://arxiv.org/abs/2506.00711)
 
+* AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation [paper](https://openreview.net/forum?id=RDdfQc5Ts1)
+
 ### Report Generation
 
 * (method) Tanida et al, (2023) Interactive and Explainable Region-guided Radiology Report Generation. CVPR 2023. [[code and links] (https://github.com/ttanida/rgrg)
