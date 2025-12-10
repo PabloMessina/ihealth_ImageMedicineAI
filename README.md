@@ -3,24 +3,45 @@
 [Denis Parra](https://dparra.sitios.ing.puc.cl), CS Professor, PUC Chile
 
 Cecilia Besa, Med Professor, PUC Chile <br/>
-Jocelyn Dunstan, CS Professor, PUC Chile <br/>
 Mircea Petrache, Math Professor, PUC Chile <br/>
 Pablo Messina, PhD(c) <br/>
-Ivania Donoso, PhD <br/>
-Gregory Schuit, MSc Student, PUC Chile <br/>
-Jorge Pérez Facuse, MSc Student, PUC Chile <br/>
-Rafael Elberg, MSc Student, PUC Chile  <br/>
-Cauã Paz, Undergrad Student, PUC Chile <br/>
-Itan Felzsentein, Undergrad Student, PUC Chile <br/>
-Valeria Salas, Undergrad Student, PUC Chile <br/>
+Ivania Donoso, PhD(c) <br/>
+Oscar Loch, PhD(c) <br/>
+Pablo Poblete, PhD student <br/>
+Gabriel Acevedo, PhD student <br/>
+Alonso Tamayo, MSc student <br/>
 
 **Former members**
 
 [José Cañete](https://josecannete.github.io), Engineer, CENIA 
+Gregory Schuit, MSc, PUC Chile <br/>
+Jorge Pérez Facuse, MSc, PUC Chile <br/>
+Rafael Elberg, MSc Student, PUC Chile  <br/>
 
 **Note**: __Keep it sorted by year__
 
 ## Papers
+
+### Medical AI in Neurips 2025 (report generation, datasets, Medical VQA, multimodal)
+
+* VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set [paper](https://openreview.net/forum?id=1Sb0363f2y)
+
+* Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning [paper](https://openreview.net/forum?id=MI1uT5rReV)
+
+* From Human Attention to Diagnosis: Semantic Patch-Level Integration of Vision-Language Models in Medical Imaging [paper](https://openreview.net/forum?id=lTAtQW1Ufi)
+
+* ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models [paper](https://openreview.net/forum?id=TjWdyVWBAG)
+
+* RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability
+[paper](https://openreview.net/forum?id=WQq5JPGQ0C)
+
+* CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation [paper](https://openreview.net/forum?id=3BTqvtwZYY)
+
+* NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI [paper](https://openreview.net/forum?id=DwFDfrPsm8)
+
+* MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants [paper](https://arxiv.org/abs/2412.12661)
+
+* QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [paper](https://arxiv.org/abs/2506.00711)
 
 ### Report Generation
 
