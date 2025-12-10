@@ -45,6 +45,8 @@ Rafael Elberg, MSc Student, PUC Chile  <br/>
 
 * AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation [paper](https://openreview.net/forum?id=RDdfQc5Ts1)
 
+* (Not Neurips, but showed up on time) OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning [HF](https://huggingface.co/OctoMed/OctoMed-7B) [paper](https://www.arxiv.org/abs/2511.23269)
+
 ### Report Generation
 
 * (method) Tanida et al, (2023) Interactive and Explainable Region-guided Radiology Report Generation. CVPR 2023. [[code and links] (https://github.com/ttanida/rgrg)
