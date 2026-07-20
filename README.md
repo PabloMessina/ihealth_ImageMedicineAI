@@ -22,6 +22,12 @@ Rafael Elberg, MSc Student, PUC Chile  <br/>
 
 ## Papers
 
+### Image Generation
+
+* De Sousa Ribeiro (2026) Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers [paper](https://arxiv.org/pdf/2606.19460) [sitio](https://radit-project.github.io/)
+
+* Chambon, P., Bluethgen, C., et al. (2022) Roentgen: vision-language foundation model for chest x-ray generation. arXiv preprint arXiv:2211.12737. [paper](https://arxiv.org/pdf/2211.12737)
+
 ### Medical AI in Neurips 2025 (report generation, datasets, Medical VQA, multimodal)
 
 * VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set [paper](https://openreview.net/forum?id=1Sb0363f2y)
